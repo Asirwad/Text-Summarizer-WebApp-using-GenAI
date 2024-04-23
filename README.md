@@ -1,4 +1,4 @@
-# Text Summarizer Web App using GenAI
+# Text Summarizer Web App using GenAI📝
 
 ## Overview
 
