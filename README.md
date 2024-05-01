@@ -1,5 +1,9 @@
 # Text Summarizer Web App using GenAI📝
 
+<p align="center">
+  <img src="https://github.com/Asirwad/Text-Summarizer-WebApp-using-GenAI/assets/85600836/90fb7e67-0c2e-4125-8e61-fead94aa58d9" alt="Image reveal" width="800">
+</p>
+
 ## Overview
 
 This project is a web application for text summarization using GenAI's natural language processing models. It allows users to input text and generate a concise summary of the input text. The application is built using Streamlit and leverages pre-trained language models for text summarization.
