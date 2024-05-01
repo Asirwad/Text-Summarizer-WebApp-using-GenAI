@@ -26,7 +26,7 @@ This project is a web application for text summarization using GenAI's natural l
 2. Navigate to the project directory:
 
     ```bash
-    cd Text-Summarizer-WebApp-using-GenAI/app
+    cd Text-Summarizer-WebApp-using-GenAI
     ```
 
 3. Install the required dependencies:
@@ -44,7 +44,7 @@ This project is a web application for text summarization using GenAI's natural l
 3. Run the Streamlit app using the following command:
 
     ```bash
-    streamlit run app.py
+    streamlit run ./app/app.py
     ```
 
 4. Open your web browser and go to `http://localhost:8501` to access the Text Summarizer Web App.
